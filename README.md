@@ -34,6 +34,7 @@ Android application which enables you add meals and also display the meals with 
   * `api/foods`: A POST request that handles saving of meal to server
 * The **ViewModel** handles the UI logic
 *  **Composables** is use for UI display
+*  **Material Designs**
 
 
 ## License
