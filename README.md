@@ -35,3 +35,8 @@ Android application which enables you add meals and also display the meals with 
 * The **ViewModel** handles the UI logic
 *  **Composables** is use for UI display
 
+
+## License
+
+* This project is open-source and follows the MIT License. Review the LICENSE file for details.
+
