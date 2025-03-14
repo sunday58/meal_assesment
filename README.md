@@ -20,7 +20,7 @@ Android application which enables you add meals and also display the meals with 
 
 ## How to run the project
 * Download the latest android studio
-* Clone the project from github using this command `git clone https://github.com/davidsunday/Voyatek-food-app.git`
+* Clone the project from github using this command `git clone https://github.com/sunday58/meal_assesment.git`
 * Open the project in android studio
 * Run the project on an emulator or a physical device
 
