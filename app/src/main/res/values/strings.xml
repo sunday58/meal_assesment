@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Voyatek Meal Assessment</string>
+    <string name="add_food_icon">Add food icon</string>
+    <string name="add_food">Add Food</string>
+    <string name="uploaded_image">uploaded_image</string>
+    <string name="delete_image">delete image</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="hey_there_lucy">Hey there, Lucy!</string>
+    <string name="are_you_excited_to_create_a_tasty_dish_today">Are you excited to create a tasty dish today?</string>
+    <string name="search_foods">Search foods...</string>
+    <string name="search_icon">Search icon</string>
+    <string name="add_a_tag">Add a tag</string>
+    <string name="delete_tag">Delete tag</string>
+    <string name="add_screen">Add Screen</string>
+    <string name="add_new_food">Add new food</string>
+    <string name="enter_food_name">Enter food name</string>
+    <string name="enter_food_description">Enter food description</string>
+    <string name="select_a_category">Select a category</string>
+    <string name="drop_down_icon">Drop down icon</string>
+    <string name="calories">Calories</string>
+    <string name="enter_number_of_calories">Enter number of calories</string>
+    <string name="tags">Tags</string>
+    <string name="food_image">Food image</string>
+    <string name="calories_icon">Calories icon</string>
+    <string name="favourite_screen">Favourite Screen</string>
+    <string name="generator_screen">Generator Screen</string>
+    <string name="planner_screen">Planner Screen</string>
+</resources>
