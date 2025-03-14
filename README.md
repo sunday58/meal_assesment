@@ -3,8 +3,9 @@ Android application which enables you add meals and also display the meals with 
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/Screenshot_20250227_015715.png" alt="Home screen" width="40%" hspace="15"/>
-  <img src="screenshots/Screenshot_20250227_014314.png" alt="Create Food screen" width="40%" hspace="15"/>
+  <img src="screenshots/Screenshot_1741939529.png" alt="Home screen" width="40%" hspace="15"/>
+  <img src="screenshots/Screenshot_1741939551.png" alt="Create Food screen" width="40%" hspace="15"/>
+  <img src="screenshots/Screenshot_1741939563.png" alt="Create Food screen" width="40%" hspace="15"/>
 </p>
 
 ## Languages, libraries and tools used
