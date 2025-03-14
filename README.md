@@ -24,6 +24,9 @@ Android application which enables you add meals and also display the meals with 
 * Open the project in android studio
 * Run the project on an emulator or a physical device
 
+## Link to the APK
+* https://drive.google.com/file/d/1-GroP1btD3V_v0il4KYJvpfZoXKBqozu/view?usp=sharing
+
 ## Architecture
 * This project makes use of MVVM architecture.
 * The **data layer** is responsible communicating with the rest API.
